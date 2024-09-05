@@ -2,7 +2,17 @@
 This is my portfolio made in Python
 
 
-##Autor -
+## Author 
 **Brayan Campos**
 
-*[LinkedIn](https://www.linkedin.com/in/braycampos/)
+* [LinkedIn](https://www.linkedin.com/in/braycampos/)
+
+
+## Live Example
+- [https://braycampos.github.io/Database-Administrator/](https://braycampos.github.io/Database-Administrator/)
+
+## Installation
+This project does not require installation. Simply open the folder or click on the file.
+
+## Hiring:
+If you want to hire me, you can write to brayan.campos.finance@gmail.com for inquiries.
